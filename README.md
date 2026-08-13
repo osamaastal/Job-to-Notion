@@ -10,5 +10,5 @@ How to use:
 
 3- First time it will ask you to connect your notion account (it’s safe, we do NOT have any access to your data)
 
-4- there’s no step 4, see it so easy!
+4- there’s no step 4, see it’s so easy!
 
