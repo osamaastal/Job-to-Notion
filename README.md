@@ -1,6 +1,9 @@
-Turn job postings into a structured Notion database. Extracts and categorizes required skills, tracks the gap against your own, and builds a cumulative bank showing what the market actually demands.
+Turn job postings into a structured Notion database. 
+
+Extracts and categorizes required skills, tracks the gap against your own, and builds a cumulative bank showing what the market actually demands.
 
 How to use:
+
 1- Claude settings > Skills > upload the .skill file (or change extension to .zip instead)
 
 2- After share the job description, call the skill like: use job-to-notion 
